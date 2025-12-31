@@ -1,10 +1,13 @@
-# Radxa Zero 3W
-![Radxa Zero 3W](assets/radxa-zero-3w.webp)
+# Radxa Zero 3W ![Radxa Zero 3W](assets/radxa-zero-3w.webp)
+
+![RK3566 Block Diagram](assets/RK3566_block_diagram.webp)
+
+![RK3566 Block Diagram](assets/zero-3w-interface-overview.webp)
 
 | | |
 |:---:|:---:|
 | ![RK3566 CPU](assets/RK3566.JPEG) | ![LPDDR4 RAM](assets/LPDDR4.JPEG) |
-| **RK3566 ARM SoC <br> 4x Cortex-A55 @1.6GHz** | **LPDDR4 RAM (up to 8GB)** |
+| **RK3566 ARM SoC <br> 4x Cortex-A55 @1.6GHz** | **LPDDR4 RAM (<8GB)** |
 
 - **CPU:** 15–20% more power-efficient than Cortex-A53 cores at equivalent performance
 - **NPU:** Integrated 0.8 TOPS Neural Processing Unit for Edge AI tasks (object detection, voice processing, ML inference)
@@ -68,6 +71,9 @@ Full Raspberry Pi-compatible pinout with expanded capabilities:
 
 ---
 
+
+
+
 ## Pro Tips: Getting Started
 
 ### Recommended OS
@@ -84,6 +90,9 @@ Full Raspberry Pi-compatible pinout with expanded capabilities:
 > - 4K video decoding
 > - Heavy I/O operations (USB 3.0 transfers)
 
+
+
+ 
 ### Quick Start (TODO upload image link)
 
 ```bash
