@@ -1,37 +1,10 @@
 # Radxa Zero 3W
-
-**The Best Bang-for-Buck Raspberry Pi Zero Alternative in 2025**
-
-A credit-card-sized powerhouse that delivers desktop-class performance, AI acceleration, and modern connectivity — all in the familiar Pi Zero form factor.
-
-![Radxa Zero 3W](assets/raxda-zero-3w.JPEG)
-
----
-
-## Why Radxa Zero 3W?
-
-| Feature | Radxa Zero 3W | Raspberry Pi Zero 2W |
-|:--------|:-------------:|:--------------------:|
-| **CPU** | Quad-core Cortex-A55 @ 1.6GHz | Quad-core Cortex-A53 @ 1.0GHz |
-| **RAM** | 1GB / 2GB / 4GB / 8GB LPDDR4 | 512MB LPDDR2 |
-| **USB** | USB 3.0 (5Gbps) + USB 2.0 OTG | USB 2.0 only |
-| **WiFi** | WiFi 6 (802.11ax) + BT 5.4 | WiFi 4 (802.11n) + BT 4.2 |
-| **NPU** | 0.8 TOPS (Edge AI) | ❌ None |
-| **GPU** | Mali-G52-2EE (Vulkan 1.1) | VideoCore IV |
-| **eMMC** | Up to 64GB onboard (5.1) | ❌ None |
-
-> **Bottom Line:** Up to 16× the RAM, true USB 3.0, WiFi 6, and an integrated NPU — for roughly the same price point.
-
----
-
-## Technical Specifications
-
-### SoC: Rockchip RK3566
+![Radxa Zero 3W](assets/radxa-zero-3w.webp)
 
 | | |
 |:---:|:---:|
 | ![RK3566 CPU](assets/RK3566.JPEG) | ![LPDDR4 RAM](assets/LPDDR4.JPEG) |
-| **Quad-core ARM Cortex-A55 @ 1.6GHz** | **LPDDR4 RAM (up to 8GB)** |
+| **RK3566 ARM SoC <br> 4x Cortex-A55 @1.6GHz** | **LPDDR4 RAM (up to 8GB)** |
 
 - **CPU:** 15–20% more power-efficient than Cortex-A53 cores at equivalent performance
 - **NPU:** Integrated 0.8 TOPS Neural Processing Unit for Edge AI tasks (object detection, voice processing, ML inference)
@@ -122,6 +95,22 @@ sudo apt update && sudo apt upgrade -y
 ```
 
 ---
+
+![Radxa Zero 3W](assets/raxda-zero-3w.JPEG)
+
+## Why Radxa Zero 3W?
+
+| Feature | Radxa Zero 3W | Raspberry Pi Zero 2W |
+|:--------|:-------------:|:--------------------:|
+| **CPU** | Quad-core Cortex-A55 @ 1.6GHz | Quad-core Cortex-A53 @ 1.0GHz |
+| **RAM** | 1GB / 2GB / 4GB / 8GB LPDDR4 | 512MB LPDDR2 |
+| **USB** | USB 3.0 (5Gbps) + USB 2.0 OTG | USB 2.0 only |
+| **WiFi** | WiFi 6 (802.11ax) + BT 5.4 | WiFi 4 (802.11n) + BT 4.2 |
+| **NPU** | 0.8 TOPS (Edge AI) | ❌ None |
+| **GPU** | Mali-G52-2EE (Vulkan 1.1) | VideoCore IV |
+| **eMMC** | Up to 64GB onboard (5.1) | ❌ None |
+
+> **Bottom Line:** Up to 16× the RAM, true USB 3.0, WiFi 6, and an integrated NPU — for roughly the same price point.
 
 ## Resources
 
