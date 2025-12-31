@@ -1,4 +1,4 @@
-# Radxa Zero 3W ![Radxa Zero 3W](assets/radxa-zero-3w.webp)
+![Radxa Zero 3W](assets/radxa-zero-3w.webp)
 
 ![RK3566 Block Diagram](assets/RK3566_block_diagram.webp)
 
